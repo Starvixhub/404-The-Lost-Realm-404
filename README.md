@@ -1,14 +1,10 @@
-# 404: The Lost Realm 404
-
 <p align="center">
-  <img src="YOUR-PREVIEW-IMAGE" alt="404: The Lost Realm 404">
+  <img src="Screenshoot/starvixhub-github-io-404-The-Lost-Realm-404.png" alt="404: The Lost Realm 404" width="100%">
 </p>
 
-## About
+# 404: The Lost Realm 404
 
-A fantasy-themed 404 error page designed around a mysterious lost realm.
-The project combines immersive visual design, responsive layout,
-animations, interactive elements, and custom UI effects.
+A fantasy-themed 404 error page featuring an immersive lost-realm design, interactive elements, animations, and responsive UI, built with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -16,16 +12,13 @@ animations, interactive elements, and custom UI effects.
 - Responsive design
 - Custom animations and visual effects
 - Interactive UI elements
-- Custom HTML/CSS/JavaScript implementation
-- Designed for modern browsers
+- Custom HTML, CSS, and JavaScript implementation
 
 ## Built With
 
 - HTML5
 - CSS3
 - JavaScript
-
-## Preview
 
 ## Live Demo
 
