@@ -27,7 +27,10 @@ animations, interactive elements, and custom UI effects.
 
 ## Preview
 
-[Live Demo](YOUR-DEMO-LINK)
+## Live Demo
+
+- [🌐 GitHub Pages](https://starvixhub.github.io/404-The-Lost-Realm-404/)
+- [🎨 CodePen](https://codepen.io/editor/sinarezaei/pen/01a0df98-d273-7a1b-a0db-2e73d66132a2)
 
 ## License
 
